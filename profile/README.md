@@ -36,7 +36,3 @@ All our projects are licensed under the MIT License. Feel free to use, modify, a
 
 ## 👏 Acknowledgements
 A huge thank you to all our contributors and supporters. Together, we're building something amazing!
-
----
-
-Feel free to customize this README to better fit your organization's needs and style. Let's make the web a better place, one contribution at a time!
